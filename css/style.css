@@ -199,11 +199,33 @@ body {
     cursor: pointer;
 }
 
+
+
+.social_icon {
+    margin-left: 46px;
+}
+
+li:first-of-type {
+    margin-left: -46px;
+}
+
+.social_text {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    color: #CBCED5;
+    margin-left: 120px;
+    margin-bottom: 24px;
+
+}
+
 .social {
     width: 206px;
     height: 64px;
     margin-left: 120px;
+    display: flex;
 }
+
 
 /* montserrat-regular - cyrillic_latin */
 @font-face {
