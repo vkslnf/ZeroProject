@@ -90,7 +90,14 @@ body {
     text-decoration: none;
 }
 
-.header__link:hover, .header__link:focus, .header__link:active {
+.header__link:hover, .header__link:focus, .header__link:active,
+.header__burger-link:hover, .header__burger-link:focus, .header__burger-link:active,
+.header__logo-link:hover, .header__logo-link:focus, .header__logo-link:active,
+.body__button:hover, .body__button:focus, .body__button:active,
+.body__button-pic:hover, .body__button-pic:focus, .body__button-pic:active,
+.cards_two:hover, .cards_two:focus, .cards_two:active,
+.cards_three:hover, .cards_three:focus, .cards_three:active,
+.cards_four:hover, .cards_four:focus, .cards_four:active {
     opacity: .75;
 }
 
