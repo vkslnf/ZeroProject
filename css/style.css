@@ -97,7 +97,8 @@ body {
 .body__button-pic:hover, .body__button-pic:focus, .body__button-pic:active,
 .cards_two:hover, .cards_two:focus, .cards_two:active,
 .cards_three:hover, .cards_three:focus, .cards_three:active,
-.cards_four:hover, .cards_four:focus, .cards_four:active {
+.cards_four:hover, .cards_four:focus, .cards_four:active,
+.social_icon:hover, .social_icon:focus, .social_icon:active {
     opacity: .75;
 }
 
